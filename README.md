@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+![exchangeratesapi vercel app_ (1)](https://user-images.githubusercontent.com/73821776/176995996-2f8c248f-4511-4f05-a58a-f2f39332712e.png)
+demo url : https://exchangeratesapi.vercel.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
