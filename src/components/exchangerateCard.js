@@ -14,12 +14,12 @@ const ExchangerateCard = ({ data }) => {
             {type.description}
           </span>
         </Col>
-        <Col>
+        <Col className="text-end m-30">
           <span className="text-title">ALIŞ</span>
           <br />
           <span className="text-description">{value}</span>
         </Col>
-        <Col>
+        <Col className="text-end">
           <span className="text-title">SATIŞ</span>
           <br />
           <span className="text-description text-right">{value}</span>

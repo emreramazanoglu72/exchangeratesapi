@@ -54,6 +54,7 @@ const Rectangle = () => {
         <CurrencyFormat
           value={result}
           className="form-control"
+          disabled={true}
           thousandSeparator={true}
         />
         <InputGroup.Text className="bg-white" id="basic-addon2">
